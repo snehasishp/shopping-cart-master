@@ -130,5 +130,10 @@
 			<artifactId>jboss-client</artifactId> <version>5.1.0.CR1</version>
 			</project>
 		-->
+		<dependency>
+			<groupId>com.myexample.groupId</groupId>
+			<artifactId>myexample</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 	</dependencies>
 </project>
